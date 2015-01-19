@@ -1,0 +1,13 @@
+be_was_were_been:быть, являться:99:1
+beat_beat_beaten:бить, колотить:99:1
+become_became_become:становиться:99:1
+begin_began_begun:начинать:99:1
+bite_bit_bitten:кусать:99:1
+blow_blew_blown:дуть, выдыхать:99:1
+break_broke_broken:ломать, разбивать, разрушать:99:1
+bring_brought_brought:приносить, привозить, доставлять:99:1
+build_built_built:строить, сооружать:99:1
+buy_bought_bought:покупать, приобретать:99:1
+catch_caught_caught:ловить, поймать, схватить:99:1
+choose_chose_chosen:выбирать, избирать:99:1
+come_came_come:приходить, подходить:99:1
